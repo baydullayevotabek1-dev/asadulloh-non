@@ -1,0 +1,11 @@
+# Telegram bot loyihasi (alohida repoda saqlanadi)
+telegram-bot/
+
+# Muhit va sirlar
+.env
+.env.local
+
+# OS fayllari
+Thumbs.db
+desktop.ini
+.DS_Store
