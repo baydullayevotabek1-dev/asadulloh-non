@@ -1,6 +1,9 @@
 # Telegram bot loyihasi (alohida repoda saqlanadi)
 telegram-bot/
 
+# Stiker/eksport ishlari (saytga aloqasi yo'q)
+output/
+
 # Muhit va sirlar
 .env
 .env.local
